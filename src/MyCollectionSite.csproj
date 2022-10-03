@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\collectionImages\" />
+    <None Include="MyCollectionSite.db" />
   </ItemGroup>
 
 </Project>
